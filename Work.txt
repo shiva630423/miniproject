@@ -1,0 +1,38 @@
+Service Provider
+
+Login,
+Train & Test Placement Data Sets, 
+View Placement Data Sets Accuracy Results in Chart, 
+View Placement Data Sets Accuracy Results, 
+View Prediction Of Placement Type, 
+View Placement Prediction Type Ratio, 
+Download Placement Predicted Data Sets, 
+View Placement Predicted Type Ratio Results, 
+View All Remote Users.
+
+Remote User
+
+
+REGISTER AND LOGIN,
+PREDICT PLACEMENT TYPE,
+VIEW YOUR PROFILE. 
+
+
+Members
+
+RID,
+Age,
+Gender,
+Stream,
+Internships,
+Btech_CGPA,
+SSLC_Percentage,
+PUC_Percentage,
+Hostel,
+HistoryOfBacklogs,
+Salary,
+Prediction.
+
+
+
+
